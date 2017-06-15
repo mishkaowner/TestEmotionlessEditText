@@ -8,10 +8,6 @@ import android.util.AttributeSet;
 
 import com.vdurmont.emoji.EmojiParser;
 
-/**
- * Created by jhkim on 17. 6. 14.
- */
-
 public class EmolessEditText extends AppCompatEditText {
     public EmolessEditText(Context context) {
         super(context);
